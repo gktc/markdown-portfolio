@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Hey I'm Gopikrishnan TC.
+## ECE Second Year Student.
